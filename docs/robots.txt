@@ -1,0 +1,13 @@
+User-agent: *
+Crawl-delay: 5
+Disallow: /assets/data/
+Disallow: /assets/images/
+Disallow: /cgi-bin/
+Disallow: /*.htaccess$
+Disallow: /*.js.map$
+Disallow: /*.ttf$
+Disallow: /*.woff$
+Disallow: /*.woff2$
+Disallow: /*.svg$
+
+Sitemap: https://mywebsite.com/sitemap.xml
